@@ -4,9 +4,9 @@
 여기에 공유할 내용을 넣으면 각자 부족한 부분을 완성해주세요.
 
 1. 목적
-=======
 
   텍스트 파일로 git과 github를 연습합니다.
+  
 1. 참여자
   1. acidsound - http://github.com/acidsound
   1. singajong - http://github.com/singajong
